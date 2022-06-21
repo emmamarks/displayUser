@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: #bfc6e0;
+    padding: 10%;
+}
+
+button:hover{
+    cursor: pointer;
+}
